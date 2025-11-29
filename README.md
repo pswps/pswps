@@ -1,9 +1,13 @@
 # Hi there 👋
-### **Studying**
+### **Studying...**
 ![Badge](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Badge](https://img.shields.io/badge/C-2C5DAA?style=flat&logo=c&logoColor=white)
+<br/>
+<br/>
 
-## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-plain.svg" width="35"/> Shell script 
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-plain.svg#gh-light-mode-only" width="40"/> <img width="40" height="40" alt="linux_white" src="https://github.com/user-attachments/assets/2ec36fa3-89df-4beb-9da2-9397d3d5c774#gh-dark-mode-only" /> Shell script
+
+
 ### 1.top
 ### 2.ps
 ### 3.jobs
@@ -21,4 +25,16 @@
 <br/>
 
 ## 1.top
-#### 제작 중...
+#### top 명령어는 현재 **OS의 메모리 사용량**, **CPU 사용량** 등을 실시간으로 갱신되는 값으로 나타내주는 명령어로
+#### 프로그램 구동시에 서버의 부하가 어느정도 되는지 테스트나 모니터링 할 때 주요하게 사용한다.
+#### top 명령어의 옵션은 다음과 같이 정리할 수 있다.
+| 명령어 | 기능 | 문법 |
+|:--------:|:-------|:-------|
+| **-d** | 업데이트 간격(단위: 초) 지정 | `top -d` |
+| **-p** | 특정 PID만 모니터링 | `top -p PIDNUM` |
+| **-n** | 실행 횟수 지정 | `top -n` |
+<br/>
+<br/>
+<br/>
+
+
