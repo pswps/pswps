@@ -5,7 +5,16 @@
 <br/>
 <br/>
 
-## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-plain.svg#gh-light-mode-only" width="40"/> <img width="40" height="40" alt="linux_white" src="https://github.com/user-attachments/assets/2ec36fa3-89df-4beb-9da2-9397d3d5c774#gh-dark-mode-only" /> Shell script
+<h2>
+  <span>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-plain.svg#gh-light-mode-only" width="40"/>
+  </span>
+  <span>
+    <img width="40" alt="linux_white" src="https://github.com/user-attachments/assets/2ec36fa3-89df-4beb-9da2-9397d3d5c774#gh-dark-mode-only" />
+  </span>
+  Shell Script
+</h2>
+
 
 
 ### 1.top
